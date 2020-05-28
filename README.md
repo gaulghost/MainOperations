@@ -1,2 +1,5 @@
 # MainOperations
-This program can preform various logical, mathematical calculations and can also preform operations on data (for now is only wordfiltering). Wordfiltering refers to filtering out useless computer expressions, formulas, codes so that one can only read related text. It is not based on machine learning but is using re library from python which allows words following certain rule so it is not perfect. Mathematical operations include calculator and logical operations include comparision of characters, numbers and strings.
+Project is divided into three parts disk, logical and mathematical operations. The programs is built well to handle all the invalid input by the user by giving them an option to re-prompt or exit.
+Disk operations include word filtering (filters out unnecessary expressions from the text/file provided).
+Logical operation allows one to compare strings, character or number (thus creating histogram/ finding mean, median, mode, largest or smallest).
+Mathematical operations include advance calculator that can be used to preform series/multiple calculations on previous result. Advance operations include finding remainder, sine, cosine, tangent or Logarithms of the expression.
